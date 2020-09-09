@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./styles.css";
 
 export default function App() {
-  const data = ["hebele", "hübele"];
+  const data = ["tomato", "potato"];
 
   return (
     <div className="App">
